@@ -1,7 +1,9 @@
-# EBAC
-#### Back-end Python
+# EBAC - Curso Back-end Python
+#### Python Avançado: Modulo 4
 
-* ## Test commit
-* ## Create a branch
-* ## Clone
-* ## New commit
+* Yields Generators
+* Coroutines
+* CPU Threads
+* TDD
+* Binary Search
+* Bubble Sort

@@ -1,8 +1,5 @@
 import unittest
-from BubbleSort import bubble_sorte
-
-
-
+from sort.bubblesort import bubble_sorte
 
 
 class BubbleSort(unittest.TestCase):
@@ -12,6 +9,7 @@ class BubbleSort(unittest.TestCase):
         expected_list = [5, 9, 12, 54, 78, 87, 1234]
         unsorted_list = bubble_sorte(unsorted_list)
         self.assertEqual(unsorted_list, expected_list)
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -1,4 +1,4 @@
-def bubble_sorte(unsorted_list):
+def bubble_sort(unsorted_list):
 
     for i in range(len(unsorted_list)):
         for j in range(len(unsorted_list) - 1):
